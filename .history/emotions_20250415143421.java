@@ -1,1 +1,0 @@
-// Step 1: Have a collection of emotions and if it matches then 
